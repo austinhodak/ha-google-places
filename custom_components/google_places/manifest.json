@@ -1,0 +1,15 @@
+{
+  "domain": "google_places",
+  "name": "Google Places",
+  "codeowners": [
+    "@austinhodak"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/google_places",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}

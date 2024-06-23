@@ -1,0 +1,22 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Device is already configured"
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "invalid_auth": "Invalid authentication",
+            "unknown": "Unexpected error"
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "api_key": "API key",
+                    "place_id": "Place ID"
+                },
+                "description": "Enter your Google Places API key and the Place ID of the business you want to monitor.",
+                "title": "Google Places Setup"
+            }
+        }
+    }
+}
