@@ -1,6 +1,6 @@
 {
     "name": "Google Places",
-    "hide_default_branch": true,
+    "hide_default_branch": false,
     "homeassistant": "2024.6.0",
-    "render_readme": true
+    "render_readme": false
 }
